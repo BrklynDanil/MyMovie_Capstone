@@ -18,3 +18,4 @@ This is the frontend for the Capstone MyMovie application. Through connecting to
 *Link to completed project
 
 Please visit https://github.com/justinZ45/mymovie 
+or go directly to our deployed website application: https://epic-kalam-07577c.netlify.app/
