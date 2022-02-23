@@ -15,6 +15,6 @@ This is the frontend for the Capstone MyMovie application. Through connecting to
 <img width="1440" alt="Screen Shot 2022-01-26 at 11 24 09 PM" src="https://user-images.githubusercontent.com/92334995/151291688-729b74a4-cfd9-4fc6-a1cb-d80823892e92.png">
 
 
-##Link to completed project
+*Link to completed project
 
 Please visit https://github.com/justinZ45/mymovie 
